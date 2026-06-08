@@ -1,75 +1,54 @@
-#  Sergio Núñez | Software & AI Developer
+# Sergio Núñez González
 
-🎓 Estudiante de Ingeniería de Sistemas y Telecomunicaciones (8° semestre)
-📍 Manizales, Colombia
-💼 En búsqueda de prácticas profesionales (Software / Data / AI)
-
----
-
-## 🚀 Perfil
-
-Desarrollador en formación con enfoque en construcción de soluciones basadas en datos e inteligencia artificial. Experiencia en desarrollo de aplicaciones con Python, integración con bases de datos y creación de interfaces interactivas para usuarios finales.
-
-Interesado en resolver problemas reales mediante tecnología, optimizando procesos y mejorando la toma de decisiones basada en datos.
+**Ingeniería en Sistemas y Telecomunicaciones · 8° semestre · Universidad de Manizales, Colombia**
+Buscando prácticas en Software · Data · IA
 
 ---
 
-## 🧠 Stack técnico
+## Sobre mí
 
-**Lenguajes:**
-Python | Java | SQL
+Desarrollador con enfoque en soluciones basadas en datos e inteligencia artificial. Construyo aplicaciones Python end-to-end — desde la integración con bases de datos hasta interfaces de usuario interactivas — con experiencia en desarrollo backend y frontend. Me interesa aplicar IA para automatizar decisiones y optimizar procesos reales.
 
-**Tecnologías:**
-Streamlit | Git | GitHub
-
-**Bases de datos:**
-PostgreSQL | pgAdmin
-
-**Otros:**
-Modelado de sistemas | Redes | Resolución de problemas
+Actualmente en búsqueda activa de prácticas profesionales.
 
 ---
 
-## 📌 Proyecto destacado
+## Stack técnico
 
-### 🔹 DataDialogue AI
-
-Aplicación que permite consultar bases de datos usando lenguaje natural.
-
-**Impacto:**
-
-* Reduce la necesidad de conocimientos técnicos para consultar datos
-* Automatiza el análisis básico de información
-
-**Responsabilidades:**
-
-* Desarrollo completo de la aplicación
-* Integración con base de datos PostgreSQL
-* Implementación de lógica de interpretación de consultas
-
-**Tecnologías:** Python, Streamlit, SQL
-
-👉 Ver proyecto: [https://github.com/sergiox76/datadialogue-ai]
+| Área | Tecnologías |
+|------|------------|
+| Lenguajes | Python · Java · SQL |
+| Frontend | HTML · CSS · JavaScript · Streamlit |
+| Backend | Python · REST APIs |
+| Bases de datos | PostgreSQL · pgAdmin |
+| Herramientas | Git · GitHub |
+| Fundamentos | Redes · Modelado de sistemas |
 
 ---
 
-## 📈 En desarrollo
+## Proyectos
 
-* Mejora de modelos de interpretación en lenguaje natural
-* Implementación de visualizaciones avanzadas
-* Optimización de rendimiento
+### DataDialogue AI
+> Aplicación de consulta de bases de datos en lenguaje natural, sin necesidad de escribir SQL.
+
+- Integración directa con PostgreSQL mediante interpretación de lenguaje natural
+- Reduce la barrera técnica para análisis de datos en equipos no especializados
+- Desarrollo completo: backend, lógica NLP e interfaz Streamlit
+
+**Stack:** Python · Streamlit · PostgreSQL · SQL  
+🔗 [github.com/sergiox76/datadialogue-ai](https://github.com/sergiox76/datadialogue-ai)
+
+---
+
+## En progreso
+
+- [ ] Visualizaciones avanzadas integradas en DataDialogue AI
+- [ ] Mejora del pipeline NLP-to-SQL con modelos más robustos
+- [ ] Optimización de rendimiento en consultas complejas
 
 ---
 
-## 🎯 Objetivo profesional
+## Contacto
 
-Aplicar mis habilidades en desarrollo de software e inteligencia artificial en un entorno empresarial, contribuyendo a la creación de soluciones tecnológicas escalables.
-
----
-
-## 📫 Contacto
-
-📧 [sergioxx767xx@gmail.com]
-🔗 LinkedIn: [https://www.linkedin.com/in/sergio-sneyder-nu%C3%B1ez-gonzalez-709970256/]
-
----
+📧 sergioxx767xx@gmail.com  
+🔗 [linkedin.com/in/sergio-sneyder-nuñez-gonzalez](https://www.linkedin.com/in/sergio-sneyder-nu%C3%B1ez-gonzalez-709970256/)
