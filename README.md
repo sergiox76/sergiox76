@@ -11,7 +11,7 @@ Desarrollador enfocado en construir productos con IA de punta a punta: backend, 
 
 Cofundador de **SAGGIO**, una plataforma educativa con IA que nació como proyecto de investigación y hoy desarrollamos como emprendimiento.
 
-📍 Desde diciembre de 2026: prácticas profesionales en **BIOS** (Manizales).
+
 
 ---
 
